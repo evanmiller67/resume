@@ -1,7 +1,7 @@
 <div id="content">
 Evan Miller
 ===========
-#### [Github](https://github.com/evanmiller67) | [Twitter](https://twitter.com/evanmiller67)
+#### [Github](https://github.com/evanmiller67) | [Twitter](https://twitter.com/evanmiller67) | irc: milleem
 
 ### Background
 
