@@ -5,9 +5,9 @@ Evan Miller
 
 ### Background
 
-I am a software developer with 5 years experience with an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the bestproduct.
+I am a software developer with 7 years experience with an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the bestproduct.
 
-I contribute where possible to the Open Source community, am a triathlete, and enjoy listening to music.
+I contribute where possible to the Open Source community, live an active lifestyle, and enjoy listening to music.
 
 My goal is to find a welcoming culture that is solving interesting problems in novel ways for their customers.
 
@@ -23,14 +23,26 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 
 ### Employment
 
+#### Change Healthcare, Nashville, TN
+##### Senior Developer - June 2014 to Present
+
+- Worked closely with Architecture team to design a SOA for replacement of a monolithic application
+- Prototype and review service implementations
+- Integrate SOA with a purchased middleware to provide a robust API for front-end consumption
+- Provide guidance to peers while designing and implementing new services and API calls
+- Took over the role of release manager, developed a scripted solution for creating builds to be tested
+- Worked with OPs team to start creating a scriptable infrastructure
+
 #### Change Healthcare, Inc., Nashville, TN
-##### Developer - April 2013 to Present
+##### Developer - April 2013 to June 2014
 
 - Add caching to reporting portal to improve response time
 - Integrate with third party vendors to include customer health saving and retirement data into application
-- Extract common functionality from monolithic app into gems providing services to other applications
+- Extract common functionality from monolithic app into libraries providing services to other applications
 - Integrate communication with external claims and benefits providers
 - Refactor monolithic app to improve latency and response time by calling stored procedures, removing N+1 queries, creating a true MVC application
+- Implement SAML Service Provider via Rails
+- Overhauled email and translation system; allowing for client-specific emails and translations
 
 
 #### CafePress, Inc., Louisville, KY
@@ -40,6 +52,7 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 - Debugged and expanded the current imaging system written in Java
 - Started development of an OAuth 2.0 server for a new API
 - Helped architect new SOA to replace monolithic/bundled applications
+- Responsible for imaging system receiving 15000+ transactions per day
 
 
 #### edo Interactive, Nashville, TN
@@ -85,19 +98,17 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 
 ### Skills  
 
-------            ------------------
-Ruby              Rails
-Redis             Java 5+
-JUnit             Spring Framework
-Apache Struts     Hibernate
-JSP / Servlets    Tiles
-JAXWS / JAXB      Velocity templates
-JSF / RichFaces   Apache httpd
-jQuery            SOAP / REST
-MySQL / Postgres  Linux
+------            ------------------  --------------
+Ruby              Rails               Play
+Redis             Java 5+             Sinatra
+JUnit             Spring Framework    Cuba
+Apache Struts     Hibernate           Torquebox
+JSP / Servlets    Tiles               jDBI
+JAXWS / JAXB      Velocity templates  nginx
+JSF / RichFaces   Apache httpd        TDD and BDD
+jQuery            SOAP / REST         OAuth v2
+MySQL / Postgres  Linux               Selenium
 Ant / Maven       Apache Tomcat 5+
 Git               Grails
-Selenium          OAuth v2
-TDD and BDD
--------------     ------------------
+-------------     ------------------ ---------------
 </div>
