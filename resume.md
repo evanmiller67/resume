@@ -5,7 +5,7 @@ Evan Miller
 
 ### Background
 
-I am a software developer with 7 years experience with an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the bestproduct.
+I am a software developer with 8 years experience and an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the bestproduct.
 
 I contribute where possible to the Open Source community, live an active lifestyle, and enjoy listening to music.
 
@@ -23,8 +23,24 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 
 ### Employment
 
+#### The Home Depot, Atlanta, GA
+##### Senior IT Developer - July 2016 to Present
+- Architect and implemented a global promotion service
+- Pair with all members of the team to develop and deliver solution
+- Worked with cross functional teams to deliver a product to over 2400 stores nationwide
+- Plan future enhancements with business partners acting as the voice of the system
+- Provided technical expertise and guidance to other teams on industry practices
+
 #### Change Healthcare, Nashville, TN
-##### Senior Developer - June 2014 to Present
+##### Manager, Software Systems Engineering - April 2016 to July 2016
+- Manage releases for a team of 12 developers
+- Provide technical leadership for product development
+- Mentor junior developers learning stack
+- Design technical specification for new features
+- Create devleopment plans for developers and organize weekly discussion on various topics
+
+#### Change Healthcare, Nashville, TN
+##### Senior Developer - June 2015 to April 2016
 
 - Worked closely with Architecture team to design a SOA for replacement of a monolithic application
 - Prototype and review service implementations
@@ -34,7 +50,7 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 - Worked with OPs team to start creating a scriptable infrastructure
 
 #### Change Healthcare, Inc., Nashville, TN
-##### Developer - April 2013 to June 2014
+##### Developer - April 2013 to June 2015
 
 - Add caching to reporting portal to improve response time
 - Integrate with third party vendors to include customer health saving and retirement data into application
@@ -98,17 +114,14 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 
 ### Skills  
 
-------            ------------------  --------------
-Ruby              Rails               Play
-Redis             Java 5+             Sinatra
-JUnit             Spring Framework    Cuba
-Apache Struts     Hibernate           Torquebox
-JSP / Servlets    Tiles               jDBI
-JAXWS / JAXB      Velocity templates  nginx
-JSF / RichFaces   Apache httpd        TDD and BDD
+------            ------------------  --------------  ---------------
+Ruby              Rails               Play            Git
+Redis             Java 5+             Sinatra         Grails
+JUnit             Spring Framework    Cuba            Apache Tomcat 5+
+Apache Struts     Hibernate           Torquebox       Ant / Maven
+JSP / Servlets    Tiles               jDBI            Selenium
+JAXWS / JAXB      Velocity templates  nginx           Linux
+JSF / RichFaces   Apache httpd        TDD and BDD     MySQL / Postgres
 jQuery            SOAP / REST         OAuth v2
-MySQL / Postgres  Linux               Selenium
-Ant / Maven       Apache Tomcat 5+
-Git               Grails
--------------     ------------------ ---------------
+-------------     ------------------ ---------------  ---------------
 </div>

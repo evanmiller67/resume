@@ -50,6 +50,13 @@ Interview Questions for Potential Employees
 * Add up all the values of an array
 * Implement a hash / priority queue
 * Reverse the words in a string
+* Explain what happens when I type www.google.com into a browser and a webpage renders
+* Imagine we're opening a restaurant; how do you design the kitchen?
+* Design an Order Management System.
+    * I have several entrees and sides
+    * Need ability to add/subtract ingredients
+    * How would you implement your solution?
+* You're implementing a soda machine, have a full API to work with the mechanics. How do you implement taking money and dispensing a drink?
 
 ## Retro
 * No asshole policy
