@@ -122,6 +122,7 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 
 ### Skills  
 
+##### {dev}
 ------            ------------------  --------------      ---------------
 Ruby              Java 5+             Spring Framework    Selenium
 Rails             JSP / Servlets      Play                TDD / BDD
@@ -129,7 +130,10 @@ Sinatra           JUnit               Grails              SOAP / REST
 Cuba              Ant / Maven         JSF / Richfaces     OAuth v2
 Torquebox         JAXWS / JAXB        Velocity Templates  SAML
                                       Hibernate
+-------------     ------------------ ---------------      ---------------
 
+##### {ops}
+-------------     ------------------ ---------------      ---------------
 Tomcat            nginx / httpd       bash                Jenkins
 MySQL / Postgres  Debian              python              Concourse
 Redis             Red Hat                                 TeamCity
