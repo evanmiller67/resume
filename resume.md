@@ -5,10 +5,8 @@ Evan Miller
 
 ### Background
 
-I am a software developer with 10 years experience and an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the best product.
-
-I contribute where possible to the Open Source community, live an active lifestyle, and enjoy listening to music.
-
+I am a software developer with 10 years experience and an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the best product.  
+I contribute where possible to the Open Source community, live an active lifestyle, and enjoy listening to music.  
 My goal is to find a welcoming culture that is solving interesting problems in novel, best-in-class ways for their customers.
 
 
