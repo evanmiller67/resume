@@ -5,11 +5,11 @@ Evan Miller
 
 ### Background
 
-I am a software developer with 8 years experience and an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the bestproduct.
+I am a software developer with 10 years experience and an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the best product.
 
 I contribute where possible to the Open Source community, live an active lifestyle, and enjoy listening to music.
 
-My goal is to find a welcoming culture that is solving interesting problems in novel ways for their customers.
+My goal is to find a welcoming culture that is solving interesting problems in novel, best-in-class ways for their customers.
 
 
 ### Education  
@@ -24,7 +24,15 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 ### Employment
 
 #### The Home Depot, Atlanta, GA
-##### Senior IT Developer - July 2016 to Present
+##### Staff Software Engineer - February 2018 to Present
+- Worked across teams to implement design patterns for cloud architecture
+- Initiated and cultivated an SRE team for an IT department
+- Taught and led the SRE team on architecting a GCP project
+- Debugged and provided feedback and enhancements for a home-grown deployment solution
+- Worked with others to develop a kubernetes CD pipeline
+
+#### The Home Depot, Atlanta, GA
+##### Senior IT Developer - July 2016 to February 2018
 - Architect and implemented a global promotion service
 - Pair with all members of the team to develop and deliver solution
 - Worked with cross functional teams to deliver a product to over 2400 stores nationwide
@@ -114,14 +122,17 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 
 ### Skills  
 
-------            ------------------  --------------  ---------------
-Ruby              Rails               Play            Git
-Redis             Java 5+             Sinatra         Grails
-JUnit             Spring Framework    Cuba            Apache Tomcat 5+
-Apache Struts     Hibernate           Torquebox       Ant / Maven
-JSP / Servlets    Tiles               jDBI            Selenium
-JAXWS / JAXB      Velocity templates  nginx           Linux
-JSF / RichFaces   Apache httpd        TDD and BDD     MySQL / Postgres
-jQuery            SOAP / REST         OAuth v2
--------------     ------------------ ---------------  ---------------
+------            ------------------  --------------      ---------------
+Ruby              Java 5+             Spring Framework    Selenium
+Rails             JSP / Servlets      Play                TDD / BDD
+Sinatra           JUnit               Grails              SOAP / REST
+Cuba              Ant / Maven         JSF / Richfaces     OAuth v2
+Torquebox         JAXWS / JAXB        Velocity Templates  SAML
+                                      Hibernate
+
+Tomcat            nginx / httpd       bash                Jenkins
+MySQL / Postgres  Debian              python              Concourse
+Redis             Red Hat                                 TeamCity
+Cassandra         Git                                     Bamboo
+-------------     ------------------ ---------------      ---------------
 </div>
