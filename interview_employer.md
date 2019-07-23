@@ -42,4 +42,13 @@ Interview Questions for Employers
 * Are there opportunities to grow in my career via conferences, talks, seminars?
 * How much focus is given to staying on top of new technology?
 * What is the training budget?
+
+## Misc
+* Can you describe a typical day in this type of role?
+* How long have you been at the company and what makes you stay?
+* How would you describe the work environment and corporate culture?
+* What are some of the goals for the company in the short and long term?
+* How would my performance be measured?
+* What types of career opportunities may open up down the road for a person starting out in this type of position, assuming they perform well?
+* What are some of the company's initiatives regarding learning and development?
 </div>
