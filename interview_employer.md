@@ -51,4 +51,12 @@ Interview Questions for Employers
 * How would my performance be measured?
 * What types of career opportunities may open up down the road for a person starting out in this type of position, assuming they perform well?
 * What are some of the company's initiatives regarding learning and development?
+* When considering the primary job function, what qualities do you look for in a candidate?
+
+## Collaboration and Reliability
+* What kind of centralized documentation do you have?
+* How is the cross-team collaboration? Are teams willing to have others contribute to their codebase?
+* Are there any separation of duties involved in this role? Do people welcome collaboration, or are they more territorial?
+* How do you gauge when to spend more time on reliability rather than features delivery?
+* Is the focus more on getting the solution right, or delivery?
 </div>
