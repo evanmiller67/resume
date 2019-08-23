@@ -5,7 +5,7 @@ Evan Miller
 
 ### Background
 
-I am a software developer with 10 years experience and an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the best product.  
+I am a software developer with 11 years experience and an interest in efficient and elegant solutions. I believe learning through experimentation and exploring new ideas drives the creative process; ultimately helping deliver the best product.  
 I contribute where possible to the Open Source community, live an active lifestyle, and enjoy listening to music.  
 My goal is to find a welcoming culture that is solving interesting problems in novel, best-in-class ways for their customers.
 
@@ -28,6 +28,8 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 - Taught and led the SRE team on architecting a GCP project
 - Debugged and provided feedback and enhancements for a home-grown deployment solution
 - Worked with others to develop a kubernetes CD pipeline
+- Mentored teammates and teams on practices and approaches for performance identification
+- Investigated and solved issues with open source projects and contributed patches to maintainers
 
 #### The Home Depot, Atlanta, GA
 ##### Senior IT Developer - July 2016 to February 2018
@@ -99,25 +101,6 @@ Dean's List: Fall 2004, Fall 2005, Spring 2006, Fall 2006, Spring 2007, Fall 200
 - Developed an authentication module for an electronic signature application to verify customers' identity through Equifax and creation of single sign on user account
 
 
-#### Murray State University, Murray, KY
-##### Lab Assistant - January 2008 to October 2008
-
-- Facilitated professor with developing documents to be used as lecture supplements
-- Composed lab assignments for demonstrating multi-threading problems
-- Researched operating systems and collaborate with professor in creating projects built on researched techniques
-- Mentored and guided students to promote sound coding practices
-
-
-#### DevSource, Murray, KY
-##### On-Site Tech support / Developer Intern - January 2007 to May 2008
-
-- Provided tier 1 support for client user base and software testing (Tier 3 applications)
-- Windows server maintenance
-- Designed and implemented applications for reporting, website crawlers to log information
-- Built web applications on ASP.NET using C# in code-behind in a source controlled environment with SQL Server backends
-- Collaborated in a team environment for designing a geo-fencing system
-- Shadowed senior developers while creating mobile applications for data entry
-
 ### Skills  
 
 ##### {dev}
@@ -134,7 +117,7 @@ Torquebox         JAXWS / JAXB        Velocity Templates  SAML
 -------------     ------------------ ---------------      ---------------
 Tomcat            nginx / httpd       bash                Jenkins
 MySQL / Postgres  Debian              python              Concourse
-Redis             Red Hat                                 TeamCity
-Cassandra         Git                                     Bamboo
+Redis             Red Hat             GCP                 TeamCity
+Cassandra         Git                 Spinnaker           Bamboo
 -------------     ------------------ ---------------      ---------------
 </div>
