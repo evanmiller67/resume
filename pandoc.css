@@ -1,12 +1,14 @@
 body {
     background-color: #DDD;
     margin: auto;
-    max-width: 960px; 
+    max-width: 960px;
+    /*
     border-left: 1px solid black;
     border-right: 1px solid black;
+    */
     font-family: Verdana, sans-serif;
-    font-size: 13px;
-    color: #333; 
+    font-size: 12px;
+    color: #333;
 }
 pre {
     border: 1px dotted gray;
@@ -17,17 +19,19 @@ pre {
 code {
     font-family: monospace;
 }
-h1 a, h2 a, h3 a, h4 a, h5 a { 
-    color: #77F; 
+h1 a, h2 a, h3 a, h4 a, h5 a {
+    color: #77F;
 }
-h1, h2, h3, h4, h5 { font-family: verdana;
-                     font-weight: bold;
-                     color: #666; }
+h1, h2, h3, h4, h5 {
+  font-family: verdana;
+  font-weight: bold;
+  color: #666;
+  margin-block-start: 10px;
+  margin-block-end: 10px;
+}
 h1 {
-        padding-top: 10px;
-        padding-bottom: 10px;
         font-size: 30px;
-        border-bottom: 5px solid #DDD;
+        border-bottom: 3px solid #DDD;
 }
 
 h2 {
@@ -41,7 +45,6 @@ h3 {
 
 h4 {
         font-size: 16px;
-        padding-top: 10px;
         -webkit-margin-before: 0px;
         -webkit-margin-after: 0px;
         -webkit-margin-start: 0px;
@@ -57,11 +60,17 @@ h5 {
         -webkit-margin-end: 0px;
 }
 
+ul {
+  margin-block-start: 8px;
+  margin-block-end: 12px;
+}
+
 dt code {
         font-weight: bold;
 }
-dd p {
+p {
         margin-top: 0;
+        margin-bottom: 5px;
 }
 
 table {
@@ -71,14 +80,20 @@ table {
 table tr td {
   padding-top: 3px;
   padding-bottom: 3px;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 #content {
     background-color: #FFF;
     margin: auto;
     padding: 1em;
+}
+#container {
+}
+#left, #right {
+  float: left;
+  width: 50%;
 }
 
 #footer {
